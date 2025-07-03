@@ -1,6 +1,9 @@
-# Automachine
-Python CaptchaCracker 보안문자 인식 모델
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Automachine&fontSize=70)
 
+<h1 align="center">🤖 Automachine</h1>
+<p align="center">Python CaptchaCracker 보안문자 인식 모델</p>
+
+---
 ## CaptchaCracker
 CaptchaCracker is an open source Python library that provides functions to create and apply deep learning models for Captcha Image recognition. You can create a deep learning model that recognizes numbers in the Captcha Image as shown below and outputs a string of numbers, or you can try the model yourself.
 
